@@ -8,3 +8,7 @@ This list collects awesome tools
 ## Load Testing
 
 - [Locust - A modern Load Testing Framework](https://locust.io/)
+
+## HTTP Debugging
+
+- [mitmproxy](https://mitmproxy.org/)
